@@ -1,95 +1,54 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", REDE TV
-http://5ce.co/live/RenanArtigas/Renan4000/28626.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", RECORD
-http://5ce.co/live/RenanArtigas/Renan4000/35799.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", GLOBO
-http://5ce.co/live/RenanArtigas/Renan4000/122175.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SBT
-http://5ce.co/live/RenanArtigas/Renan4000/21135.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SBT
-http://5ce.co/live/RenanArtigas/Renan4000/26165.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", BAND
-http://5ce.co/live/RenanArtigas/Renan4000/10869.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", JOVEM PAN
-http://5ce.co/live/RenanArtigas/Renan4000/203501.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HISTORY
-http://5ce.co/live/RenanArtigas/Renan4000/35434.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HISTORY 2
-http://5ce.co/live/RenanArtigas/Renan4000/6561.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", A&E
-http://5ce.co/live/RenanArtigas/Renan4000/6971.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", AMC
-http://5ce.co/live/RenanArtigas/Renan4000/6970.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", AXN
-http://5ce.co/live/RenanArtigas/Renan4000/6969.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", CINEMAX
-http://5ce.co/live/RenanArtigas/Renan4000/28653.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", FX
-http://5ce.co/live/RenanArtigas/Renan4000/28648.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", MEGAPIX FHD
-http://5ce.co/live/RenanArtigas/Renan4000/6918.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", PARAMOUNT
-http://5ce.co/live/RenanArtigas/Renan4000/16832.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SONY
-http://5ce.co/live/RenanArtigas/Renan4000/16870.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SPACE
-http://5ce.co/live/RenanArtigas/Renan4000/6934.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", STUDIO UNIVERSAL
-http://5ce.co/live/RenanArtigas/Renan4000/6929.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SYFY
-http://5ce.co/live/RenanArtigas/Renan4000/6930.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TNT
-http://5ce.co/live/RenanArtigas/Renan4000/7050.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TNT SÉRIES
-http://5ce.co/live/RenanArtigas/Renan4000/28634.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", UNIVERSAL TV
-http://5ce.co/live/RenanArtigas/Renan4000/6919.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", WARNER CHANNEL
-http://5ce.co/live/RenanArtigas/Renan4000/6917.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TELECINE ACTION
-http://5ce.co/live/RenanArtigas/Renan4000/6922.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TELECINE FUN
-http://5ce.co/live/RenanArtigas/Renan4000/6923.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TELECINE PIPOCA
-http://5ce.co/live/RenanArtigas/Renan4000/6925.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TELECINE PREMIUM
-http://5ce.co/live/RenanArtigas/Renan4000/6927.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", TELECINE TOUCH
-http://5ce.co/live/RenanArtigas/Renan4000/6924.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO
-http://5ce.co/live/RenanArtigas/Renan4000/6948.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO 2
-http://5ce.co/live/RenanArtigas/Renan4000/6953.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO FAMILY
-http://5ce.co/live/RenanArtigas/Renan4000/28646.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO MUNDI
-http://5ce.co/live/RenanArtigas/Renan4000/28641.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO PLUS
-http://5ce.co/live/RenanArtigas/Renan4000/28645.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO POP
-http://5ce.co/live/RenanArtigas/Renan4000/17081.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO SIGNATURE
-http://5ce.co/live/RenanArtigas/Renan4000/28644.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO EXTREME
-http://5ce.co/live/RenanArtigas/Renan4000/6941.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", HBO+
-http://5ce.co/live/RenanArtigas/Renan4000/100467.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", CINE SKY 1
-http://5ce.co/live/RenanArtigas/Renan4000/122135.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", CINE SKY 2
-http://5ce.co/live/RenanArtigas/Renan4000/95848.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", CINE SKY 3
-http://5ce.co/live/RenanArtigas/Renan4000/122136.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", CINE SKY 4
-http://5ce.co/live/RenanArtigas/Renan4000/122137.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", CINE SKY 5
-http://5ce.co/live/RenanArtigas/Renan4000/122142.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SPORTV
-http://5ce.co/live/RenanArtigas/Renan4000/16821.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SPORTV 2
-http://5ce.co/live/RenanArtigas/Renan4000/6480.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", SPORTV 3
-http://5ce.co/live/RenanArtigas/Renan4000/10371.ts
-#EXTINF:0 type="video" channelId="-1" group="CANAIS FHD", PREMIERE CLUBES
-http://5ce.co/live/RenanArtigas/Renan4000/6938.ts
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",RECORD HD
+http://rv.therevenge.co:80/live/11223344/11223344/82451.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",BAND SP HD
+http://rv.therevenge.co:80/live/11223344/11223344/82386.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",BAND NEWS HD
+http://rv.therevenge.co:80/live/11223344/11223344/82429.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",BAND SPORTS HD
+http://185.71.64.167:80/307245103371/307245103371/82352?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",GLOBO SP HD
+http://rv.therevenge.co:80/live/11223344/11223344/82457.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",GLOBO NEWS HD
+http://rv.therevenge.co:80/live/11223344/11223344/82431.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPORTV HD
+http://rv.therevenge.co:80/565656/565656/82362?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPORTV 2 FHD
+http://raostvip.com:8080/semi16/1609.sem/117813?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPORTV 3 HD
+http://185.71.64.167:80/307245103371/307245103371/82360?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPACE HD
+http://rv.therevenge.co:80/565656/565656/82372?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",CINEMAX HD
+http://185.71.64.167:80/307245103371/307245103371/82384?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TNT HD
+http://rv.therevenge.co:80/live/11223344/11223344/82398.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE ACTION HD
+http://rv.therevenge.co:80/live/11223344/11223344/82396.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE CULT HD
+http://rv.therevenge.co:80/live/11223344/11223344/82395.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE FUN HD
+http://rv.therevenge.co:80/565656/565656/82394?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE PREMIUM HD
+http://rv.therevenge.co:80/live/11223344/11223344/82399.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE TOUCH HD
+http://rv.therevenge.co:80/live/11223344/11223344/82392.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",FX HD
+http://rv.therevenge.co:80/live/11223344/11223344/82380.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",FOX HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82382?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",FOX LIFE HD
+http://rv.therevenge.co:80/live/11223344/11223344/82381.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",FOX SPORTS HD
+http://redcoliptv.com:8090/milton/milton123/20340?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",FOX SPORTS 2 HD
+http://rv.therevenge.co:80/565656/565656/82358?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",HBO HD
+http://rv.therevenge.co:80/live/11223344/11223344/82412.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",HBO 2 HD
+http://rv.therevenge.co:80/live/11223344/11223344/82411.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",HBO FAMILY HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82410?checkedby:dailyfreeiptvlist.com
