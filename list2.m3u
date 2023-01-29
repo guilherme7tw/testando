@@ -1,10 +1,66 @@
-#EXTINF:-1,Globo EPTV Campinas HD
-http://acsc.cc:80/1Lucilim/1Luci2532/71977.ts
-#EXTINF:-1,SBT SP HD
-http://acsc.cc:80/1Lucilim/1Luci2532/72598.ts
-#EXTINF:-1,Band SP HD
-http://acsc.cc:80/1Lucilim/1Luci2532/72597.ts
-#EXTINF:-1,PT: TV RECORD HD
-http://acsc.cc:80/1Lucilim/1Luci2532/169612.ts
-#EXTINF:-1,RedeTV HD
-http://acsc.cc:80/1Lucilim/1Luci2532/72299.ts
+#EXTM3U
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",GLOBO SP HD
+http://rv.therevenge.co:80/live/11223344/11223344/82457.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SBT HD
+http://rv.therevenge.co:80/live/11223344/11223344/82435.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",RECORD HD
+http://rv.therevenge.co:80/live/11223344/11223344/82451.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",BAND SP HD
+http://rv.therevenge.co:80/live/11223344/11223344/82386.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",REDE TV HD
+http://redcoliptv.com:8090/milton/milton123/20384?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",RECORD NEWS HD
+http://rv.therevenge.co:80/565656/565656/82430?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",BAND NEWS HD
+http://rv.therevenge.co:80/live/11223344/11223344/82429.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",BAND SPORTS HD
+http://185.71.64.167:80/307245103371/307245103371/82352?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPORTV HD
+http://rv.therevenge.co:80/565656/565656/82362?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPORTV 2 FHD
+http://raostvip.com:8080/semi16/1609.sem/117813?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",SPORTV 3 HD
+http://185.71.64.167:80/307245103371/307245103371/82360?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",CINEMAX HD
+http://185.71.64.167:80/307245103371/307245103371/82384?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",MEGAPIX FHD
+http://raostvip.com:8080/semi16/1609.sem/117743?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",AXN HD
+http://rv.therevenge.co:80/live/11223344/11223344/82388.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISCOVERY HD
+http://rv.therevenge.co:80/live/11223344/11223344/82342.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/live/11223344/11223344/82338.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISCOVERY CIVILIZATION HD
+http://rv.therevenge.co:80/live/11223344/11223344/82341.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISCOVERY TURBO HD
+http://rv.therevenge.co:80/live/11223344/11223344/82336.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",HISTORY HD
+http://rv.therevenge.co:80/live/11223344/11223344/82334.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",CARTOON NETWORK HD
+http://rv.therevenge.co:80/live/242424/242424/82424.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",NICK JR HD
+http://rv.therevenge.co:80/live/11223344/11223344/82419.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",NICKELODEON HD
+http://rv.therevenge.co:80/live/11223344/11223344/82418.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISCOVERY KIDS HD
+http://rv.therevenge.co:80/565656/565656/82339?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",GLOOB HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82442?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISNEY CHANNEL HD
+http://rv.therevenge.co:80/live/11223344/11223344/82423.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISNEY JR HD
+http://rv.therevenge.co:80/live/11223344/11223344/82422.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",DISNEY XD HD
+http://rv.therevenge.co:80/live/11223344/11223344/82421.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE ACTION HD
+http://rv.therevenge.co:80/live/11223344/11223344/82396.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE CULT HD
+http://rv.therevenge.co:80/live/11223344/11223344/82395.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE FUN HD
+http://rv.therevenge.co:80/565656/565656/82394?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE PREMIUM HD
+http://rv.therevenge.co:80/live/11223344/11223344/82399.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="search" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="search",TELECINE TOUCH HD
+http://rv.therevenge.co:80/live/11223344/11223344/82392.m3u8?checkedby:dailyfreeiptvlist.com
